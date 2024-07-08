@@ -1,5 +1,10 @@
 # Ignorar todos os arquivos .xlsx
 *.xlsx
 
+
+
+
+
+
 # Exceção para um arquivo específico dentro de um subdiretório
 !Vouchers para testar.xlsx
